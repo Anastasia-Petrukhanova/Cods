@@ -1,0 +1,4 @@
+﻿  lsd1.cpp
+C:\Users\User\source\repos\lsd1\lsd1\lsd1.cpp(129,50): warning C4244:  +=: преобразование "float" в "long", возможна потеря данных
+C:\Users\User\source\repos\lsd1\lsd1\lsd1.cpp(41): warning C4172:  возвращение адреса локальной или временной переменной : a
+  lsd1.vcxproj -> C:\Users\User\source\repos\lsd1\Debug\lsd1.exe
